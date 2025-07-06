@@ -1,0 +1,15 @@
+# Hardhat build artifacts
+artifacts/
+cache/
+out/
+typechain/
+
+# Node modules
+node_modules/
+
+# Env files
+.env
+
+# Optional OS-specific
+.DS_Store
+*.log
