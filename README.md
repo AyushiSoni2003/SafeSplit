@@ -109,7 +109,16 @@ safesplit/
 
 ## ✨ Credits
 
-Built with 💡 by [Your Name] and team for the BlockDAG Hackathon.
+Built with 💡 by Team SafeSplit for the BlockDAG Hackathon.
+
+👥 Team Members:
+Ayushi Soni – Solidity Developer, Deployment & GitOps
+
+Ankit Yadav – Frontend Developer (React + Tailwind)
+
+Aaditya Jain – UI/UX Designer (Figma + User Flows)
+
+Vaibhav Soni – DevOps & Testing (Hardhat, Node.js)
 
 ---
 
