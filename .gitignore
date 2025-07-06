@@ -13,3 +13,4 @@ node_modules/
 # Optional OS-specific
 .DS_Store
 *.log
+*.ini
